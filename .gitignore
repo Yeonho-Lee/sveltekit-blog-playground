@@ -1,5 +1,8 @@
 node_modules
 
+# drizzle generated files
+drizzle/
+
 # Output
 .output
 .vercel
