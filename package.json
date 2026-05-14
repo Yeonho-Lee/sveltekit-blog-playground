@@ -42,6 +42,8 @@
     "vite": "^7.3.1"
   },
   "dependencies": {
+    "@tanstack/svelte-query": "^6.1.29",
+    "better-sqlite3": "^12.6.2",
     "@libsql/client": "^0.17.2",
     "valibot": "^1.2.0"
   }
